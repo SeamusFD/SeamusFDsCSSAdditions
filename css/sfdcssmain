@@ -1,0 +1,48 @@
+/* --- General --- */
+.left {
+    float: left;
+}
+
+.leftImportant {
+    float: left !important;
+}
+
+.right {
+    float: right;
+}
+
+.rightImportant {
+    float: right!important;
+}
+
+.textAlignLeft {
+    text-align: left;
+}
+
+.textAlignRight {
+    text-align: right;
+}
+
+.textAlignCenter {
+    text-align: center;
+}
+
+.textAlignLeftImportant {
+    text-align: left!important;
+}
+
+.textAlignRightImportant {
+    text-align: right!important;
+}
+
+.textAlignCenterImportant {
+    text-align: center!important;
+}
+
+.link {
+    /* insert parameters here for your project */
+}
+
+.link:hover {
+    /* insert parameters here for your project */
+}
